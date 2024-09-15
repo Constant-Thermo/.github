@@ -1,1 +1,1 @@
-[Issue and Attend](https://github.com/TeamGensouSpark/.github/issues)
+[Issue and Join us](https://github.com/TeamGensouSpark/.github/issues)
